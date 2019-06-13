@@ -16,7 +16,7 @@ namespace QuatroOperacoes
             int soma, subtrair, multiplicar, dividir, resto;
 
             // Pedir ao usuário que entre com o primeiro número
-            Console.WriteLine("Digite um número");
+            Console.WriteLine("Digite um número:");
 
             // Vamos pegar o valor que o usuário digitou e colocar na variável número1
             // Utilizamos o comando int.Parse(...) para passar a captura de texto Console.Readline em número. Mesmo sabendo que o usuário
@@ -33,5 +33,11 @@ namespace QuatroOperacoes
             dividir = numero1 / numero2;
             resto = numero1 % numero2;
 
+            Console.WriteLine("A soma é "+soma);
+            Console.WriteLine("A subtração é "+subtrair);
+            Console.WriteLine("A multiplicação é "+multiplicar);
+            Console.WriteLine("A divisão é "+dividir);
+            Console.WriteLine("O resto é "+resto);
+        }
     }
 }

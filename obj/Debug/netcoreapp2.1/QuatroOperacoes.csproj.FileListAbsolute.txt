@@ -1,0 +1,11 @@
+C:\Users\danilo.rloliveira\CSharp\PrimeirosPassos\QuatroOperacoes\obj\Debug\netcoreapp2.1\QuatroOperacoes.csprojAssemblyReference.cache
+C:\Users\danilo.rloliveira\CSharp\PrimeirosPassos\QuatroOperacoes\obj\Debug\netcoreapp2.1\QuatroOperacoes.csproj.CoreCompileInputs.cache
+C:\Users\danilo.rloliveira\CSharp\PrimeirosPassos\QuatroOperacoes\obj\Debug\netcoreapp2.1\QuatroOperacoes.AssemblyInfoInputs.cache
+C:\Users\danilo.rloliveira\CSharp\PrimeirosPassos\QuatroOperacoes\obj\Debug\netcoreapp2.1\QuatroOperacoes.AssemblyInfo.cs
+C:\Users\danilo.rloliveira\CSharp\PrimeirosPassos\QuatroOperacoes\bin\Debug\netcoreapp2.1\QuatroOperacoes.deps.json
+C:\Users\danilo.rloliveira\CSharp\PrimeirosPassos\QuatroOperacoes\bin\Debug\netcoreapp2.1\QuatroOperacoes.runtimeconfig.json
+C:\Users\danilo.rloliveira\CSharp\PrimeirosPassos\QuatroOperacoes\bin\Debug\netcoreapp2.1\QuatroOperacoes.runtimeconfig.dev.json
+C:\Users\danilo.rloliveira\CSharp\PrimeirosPassos\QuatroOperacoes\bin\Debug\netcoreapp2.1\QuatroOperacoes.dll
+C:\Users\danilo.rloliveira\CSharp\PrimeirosPassos\QuatroOperacoes\bin\Debug\netcoreapp2.1\QuatroOperacoes.pdb
+C:\Users\danilo.rloliveira\CSharp\PrimeirosPassos\QuatroOperacoes\obj\Debug\netcoreapp2.1\QuatroOperacoes.dll
+C:\Users\danilo.rloliveira\CSharp\PrimeirosPassos\QuatroOperacoes\obj\Debug\netcoreapp2.1\QuatroOperacoes.pdb
